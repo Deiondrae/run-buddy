@@ -1,4 +1,5 @@
 # Run Buddy
+
 ## Purpose
 A website that offers fitness training services.
 
@@ -11,3 +12,5 @@ https://deiondrae.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Deiondrae
+
+### ©️2019 Run Buddy, Inc
