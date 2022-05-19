@@ -1,7 +1,7 @@
 # Run Buddy, Inc
 
 ## Purpose
-A website that offers fitness training services.
+Template of a website that offers fitness training services.
 
 ## Built with
 * HTML
